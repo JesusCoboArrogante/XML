@@ -1,0 +1,15 @@
+<?xml version = "1.0" encodig = "UTF-8">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:expediente>
+<xs:element name = "titulo" type:"xs:string" />
+<xs:element name = "estudiante" type:"xs:string"/>
+<xs:secuence>
+    <xs:element name = "asignatura" type:"xs:string"/>
+    <xs:element name = "aprobado" type: "xs:boolean"/>
+    <xs:element name ="curso" type: "xs:string"/>
+    
+</xs:secuence>
+
+</xs:expediente>
+
+</xs:schema>
