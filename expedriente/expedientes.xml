@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expedientes 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="informacion.xsd">
+    <expediente>
+        <titulacion>DAW</titulacion>
+        <estudiante>Armando Bronca Segura</estudiante>
+        <modulos>
+            <modulo nombre="Bases de Datos" aprobado="true" curso="Primero"/>
+            <modulo nombre="LMSGI" aprobado="true" curso="Primero"/>
+            <modulo nombre="Despliegue de Aplicaciones Web" aprobado="false" curso="Segundo"/>
+        </modulos>    
+    </expediente>
+
+    <expediente>
+        <titulacion>DAW</titulacion>
+        <estudiante>Aitor Tilla</estudiante>
+        <modulos>
+            <modulo nombre="Programacion" aprobado="true" curso="Primero"/>
+            <modulo nombre="Desarrollo Web en entorno cliente" aprobado="false" curso="Segundo"/>
+            <modulo nombre="Desarrollo Web en entorno servidor" aprobado="false" curso="Segundo"/>
+        </modulos>
+    </expediente>
+</expedientes>
