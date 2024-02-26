@@ -1,0 +1,19 @@
+1. Librería de libros con género o idioma: Además de la información básica de título, autor y año de publicación, incluye el género literario o el idioma en el que está escrito cada libro.
+
+2. Catálogo de películas con calificación o duración: Además de la información básica de título, director y año de lanzamiento, agrega la calificación de la película (PG, PG-13, R, etc.) o la duración en minutos.
+
+3. Lista de contactos con tipo de contacto: Además de los campos estándar como nombre, apellido, correo electrónico y teléfono, incluye un campo para especificar el tipo de contacto (personal, trabajo, familiar, etc.).
+
+4. Menú de restaurante con ingredientes: Además de los platos, descripciones y precios, agrega una lista de ingredientes para cada plato del menú.
+
+5. Calendario de eventos con categorías: Además de la fecha, hora, título y ubicación de cada evento, incluye una categoría para clasificarlos (reuniones, conferencias, fiestas, etc.).
+
+6. Registro de estudiantes con promedio: Además de los campos estándar como nombre, edad, grado y asignaturas, agrega un campo para el promedio general del estudiante.
+
+7. Inventario de productos con proveedores: Además de los detalles básicos del producto, incluye información sobre los proveedores de cada producto (nombre, contacto, dirección, etc.).
+
+8. Lista de tareas pendientes con etiquetas: Además de descripciones y fechas de vencimiento, agrega etiquetas para clasificar las tareas (trabajo, personal, importante, urgente, etc.).
+
+9. Álbum de fotos con ubicación: Además de los nombres de archivo, descripciones y fechas, agrega información sobre la ubicación donde se tomó cada foto.
+
+10. Registro de empleados con supervisor: Además de los campos estándar como nombre, cargo y departamento, incluye el nombre de su supervisor
