@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilo.css" type="text/css"?>
+<hamburgeseria>
+    
+    <pedido>
+        <cliente>jesus</cliente>
+        <direccion>c/inventada 10 1ºA</direccion>
+        <comandas>
+            <nombre>haburgesa clasica</nombre>
+            <precio>15,00€</precio>
+        </comandas>
+        <comandas>
+            <nombre>cocacola</nombre>
+            <precio>2,00€</precio>
+        </comandas>
+        <comandas>
+            <nombre>patatas fritas</nombre>
+            <precio>0,50€</precio>
+        </comandas>
+    </pedido>
+
+    <pedido>
+        <cliente>javi</cliente>
+        <direccion>c/bulo 11 2ºB</direccion>
+        <comandas>
+            <nombre>hamburguesa clasica</nombre>
+            <precio>15,00€</precio>
+        </comandas>
+        <comandas>
+            <nombre>cocacola</nombre>
+            <precio>2,00€</precio>
+        </comandas>
+    </pedido>
+
+    <pedido>
+        <cliente>miguel</cliente>
+        <direccion>c/mentira 12 3ºC</direccion>
+        <comandas>
+            <nombre>hamburguesa clasica</nombre>
+            <precio>15,00€</precio>
+        </comandas>
+    </pedido>
+
+</hamburgeseria>

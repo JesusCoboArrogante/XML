@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE avion [
+    <!ELEMENT avion (nombre,aeropuerto_origen,aeropuerto_destino,fx,hora)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT aeropuerto_origen (#PCDATA)>
+    <!ELEMENT aeropuerto_destino (#PCDATA)>
+    <!ELEMENT fx (#PCDATA)>
+    <!ELEMENT hora (#PCDATA)>
+]>
+
+<avion>
+    <nombre>jesus</nombre>
+    <aeropuerto_origen>madrid</aeropuerto_origen>
+    <aeropuerto_destino>barcelona</aeropuerto_destino>
+    <fx>26/02/2024</fx>
+    <hora>9:30</hora>
+</avion>

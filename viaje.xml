@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viajes>
+    <viaje>
+        <cliente>
+            <nombre>isabel</nombre>
+            <apellido>solona lumbreras</apellido>
+        </cliente>
+        <fx_ini>01-07-2024</fx_ini>
+        <fx_fin>31-07-2024</fx_fin>
+        <origen>madrid</origen>
+        <destino>
+            <ciudad>paris</ciudad>
+            <hotel>hilton paris</hotel>
+            <noches>paris</noches>
+        </destino>
+    </viaje>
+
+    <viaje>
+        <cliente>
+            <nombre>luffy</nombre>
+            <apellido>monkey d</apellido>
+        </cliente>
+        <fx_ini>22-07-2024</fx_ini>
+        <fx_fin>02-10-2024</fx_fin>
+        <origen>madrid</origen>
+        <destino>
+            <ciudad>arles</ciudad>
+            <hotel>maison andre</hotel>
+            <noches>10</noches>
+        </destino>
+    </viaje>
+
+    <viaje>
+        <cliente>
+            <nombre>naruto</nombre>
+            <apellido>uzumaki</apellido>
+        </cliente>
+        <fx_ini>21-09-2024</fx_ini>
+        <fx_fin>10-11-2024</fx_fin>
+        <origen>madrid</origen>
+        <destino>
+            <ciudad>St.tropez</ciudad>
+            <hotel>villa cosy</hotel>
+            <noches>10</noches>
+        </destino>
+    </viaje>
+</viajes>

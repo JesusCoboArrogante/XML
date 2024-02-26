@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pagina [
+    <!ELEMENT pagina (web*)>
+    <!ELEMENT web (nombre, descripcion, url)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT descripcion (#PCDATA)>
+    <!ELEMENT url ANY>
+]>
+<pagina>
+    <web>
+        <nombre>animeFLV</nombre>
+        <descripcion>ver anime</descripcion>
+        <url>https://www3.animeflv.net</url>
+    </web>
+    <web>
+        <nombre>chollometros</nombre>
+        <descripcion>descuentos</descripcion>
+        <url>https://www.chollometro.com/nuevos</url>
+    </web>
+    <web>
+        <nombre>tvymanga</nombre>
+        <descripcion>ver manga</descripcion>
+        <url>https://tvymanga2.com</url>
+    </web>
+    
+    
+    
+</pagina>
