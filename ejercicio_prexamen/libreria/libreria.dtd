@@ -1,0 +1,11 @@
+
+<!ELEMENT libreri (libro+)>
+<!ELEMENT libro (titulo, autor, genero, fx_publicacion,vivo)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT fx_publicacion (#PCDATA)>
+<!ELEMENT vivo (#PCDATA)>
+
+<!ATTLIST libro
+id CDATA  #REQUIRED

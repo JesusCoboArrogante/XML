@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--1. Librería de libros con género o idioma: Además de la información básica de 
-título, autor y año de publicación, incluye el género literario o el idioma en el que está escrito cada libro. -->
-<libreria>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="libreria.dtd" type="application/xml-dtd"?>
+<?xml-model href="libreria.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+
+<libreri>
     <libro id = "1">
         <titulo>el señor de los anillos</titulo>
         <autor>jrr.tolkien</autor>
         <genero>alta fantasia</genero>
-        <fx_publicacion>01-10-1977</fx_publicacion>
+        <fx_publicacion>1977-10-01</fx_publicacion>
         <vivo>false</vivo>
     </libro>
 
@@ -14,7 +17,7 @@ título, autor y año de publicación, incluye el género literario o el idioma 
         <titulo>juego de tronos</titulo>
         <autor>grr.martin</autor>
         <genero>fantasia epica</genero>
-        <fx_publicacion>15-02-2002</fx_publicacion>
+        <fx_publicacion>2002-02-15</fx_publicacion>
         <vivo>true</vivo>
     </libro>
 
@@ -22,7 +25,7 @@ título, autor y año de publicación, incluye el género literario o el idioma 
         <titulo>harry potter y la piedra filosofal</titulo>
         <autor>jk.rowling</autor>
         <genero>fantasia juvenil</genero>
-        <fx_publicacion>06-06-1997</fx_publicacion>
-        <vivo></vivo>
+        <fx_publicacion>1997-06-06</fx_publicacion>
+        <vivo>true</vivo>
     </libro>
-</libreria>
+</libreri>
