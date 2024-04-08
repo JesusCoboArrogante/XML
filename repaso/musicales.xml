@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- xpath resultado = //banda[@genero='pop']-->
+
+<musica>
+    <banda genero = "rock" >
+        <nombre>heroe del silencio</nombre>
+        <componente>Enrique Bunbury, Juan Valdivia, Joaquín Cardiel y Pedro Andreu</componente>
+        <cancion>entre dos tierras</cancion>
+    </banda>
+
+    <banda genero = "pop" >
+        <nombre>la orega de van gogh</nombre>
+        <componente>Leire Martínez, Pablo Benegas, Xabi San Martín, Álvaro Fuentes y Haritz Garde</componente>
+        <cancion>rosas</cancion>
+    </banda>
+
+    <banda genero = "pop" >
+        <nombre>mecano</nombre>
+        <componente>Ana Torroja, Nacho Cano y José María Cano.</componente>
+        <cancion>hijo de la luna</cancion>
+    </banda>
+
+    <banda genero = "indie rock" >
+        <nombre>vetusa moria</nombre>
+        <componente>Pucho (Juan Pedro Martín), David "El Indio" García, Jorge González, Álvaro B. Baglietto, Guillermo Galván y Juanma Latorre</componente>
+        <cancion></cancion>
+    </banda>
+
+    <banda genero = "pop rock" >
+        <nombre>estopa</nombre>
+        <componente>David Muñoz y José Manuel Muñoz</componente>
+        <cancion>la raja de tu falda</cancion>
+    </banda>
+</musica>

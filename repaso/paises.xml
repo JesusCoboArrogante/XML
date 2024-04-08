@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+<!-- xpath resultado = //pais[@habitante > 10000000]-->
+
+<tierra>   
+    <pais habitante ="330000000" >
+        <nombre>estados unidos</nombre>
+        <capital>washington d.c</capital>
+        <continente>america</continente>
+    </pais>
+
+    <pais habitante ="1300000000" >
+        <nombre>india</nombre>
+        <capital>nueva delhi</capital>
+        <continente>asia</continente>
+    </pais>
+
+    <pais habitante ="210000000" >
+        <nombre>brasil</nombre>
+        <capital>brasilia</capital>
+        <continente>america</continente>
+    </pais>
+
+    <pais habitante ="600000" >
+        <nombre>luxenburgo</nombre>
+        <capital>luxenburgo</capital>
+        <continente>europa</continente>
+    </pais>
+
+
+    <pais habitante ="39000" >
+        <nombre>monaco</nombre>
+        <capital>monaco</capital>
+        <continente>europa</continente>
+    </pais>
+
+</tierra>

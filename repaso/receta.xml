@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- xpath resultado = //facil/nombre-->
+<receta>
+    <facil>
+        <nombre>tortilla de patata</nombre>
+        <proceso>
+            Pela y corta en rodajas finas 3-4 patatas y una cebolla grande.
+            Fríe las patatas y la cebolla en abundante aceite caliente hasta que estén tiernas pero no doradas. Escurre el exceso de aceite.
+            Bate 6-8 huevos en un bol grande y sazona con sal y pimienta al gusto.
+            Agrega las patatas y la cebolla a los huevos batidos y mezcla bien.
+            Calienta una sartén antiadherente con un poco de aceite y vierte la mezcla de huevos y patatas.
+            Cocina a fuego medio-bajo durante unos minutos hasta que la parte inferior esté dorada y la parte superior esté casi cuajada.
+            Voltea la tortilla con la ayuda de un plato grande y cocina por el otro lado hasta que esté dorada y completamente cuajada por dentro.
+            Sirve caliente o fría, cortada en porciones. ¡Disfruta de tu tortilla de patatas!
+        </proceso>
+    </facil>
+   
+    <medio>
+        <nombre>macarrones </nombre>
+        <proceso>
+            Hierve agua en una olla grande y añade sal. Agrega los macarrones y cocina según las instrucciones del paquete hasta que estén al dente.
+            Mientras tanto, en otra sartén, calienta un poco de aceite de oliva y saltea ajo picado y tomates cherry cortados por la mitad hasta que estén tiernos.
+            Cuando los macarrones estén listos, escúrrelos y reserva un poco del agua de cocción.
+            Agrega los macarrones escurridos a la sartén con los tomates y el ajo. Mezcla bien y añade un poco del agua de cocción reservada si es necesario para crear una salsa ligera.
+            Condimenta con sal, pimienta y hierbas frescas como albahaca o perejil, según tu gusto.
+            Sirve los macarrones en platos individuales y espolvorea con queso parmesano rallado si lo deseas.
+            ¡Disfruta de tus macarrones caseros! 
+        </proceso>
+    </medio>
+
+    <dificil>
+        <nombre>coq au vin</nombre>
+        <proceso>
+            Corta un pollo entero en trozos y sazónalos con sal y pimienta.
+            En una olla grande, dora los trozos de pollo en un poco de aceite caliente.
+            Agrega cebolla picada, zanahorias en rodajas y champiñones cortados a la olla y cocina hasta que estén dorados.
+            Añade vino tinto a la olla y deja que hierva, raspando los trozos dorados del fondo.
+            Agrega caldo de pollo, hierbas frescas como tomillo y laurel, y una pizca de harina para espesar la salsa.
+            Cubre la olla y cocina a fuego lento durante aproximadamente una hora, hasta que el pollo esté tierno y la salsa se haya reducido.
+            Sirve caliente, preferiblemente acompañado de puré de patatas o pan crujiente.
+        </proceso>
+    </dificil>
+
+    <facil>
+        <nombre>rabo de toro</nombre>
+        <proceso>
+            En una olla grande, dora los trozos de rabo de toro en aceite caliente.
+            Retira la carne y saltea cebolla, zanahoria y apio picados en la misma olla hasta que estén tiernos.
+            Agrega ajo picado, tomate triturado y especias como tomillo, laurel y pimienta negra.
+            Coloca los trozos de rabo de toro nuevamente en la olla y vierte vino tinto suficiente para cubrir la carne.
+            Deja que hierva, luego reduce el fuego y cocina a fuego lento durante varias horas, hasta que la carne esté tierna y se despegue del hueso.
+            Si la salsa queda muy líquida, puedes espesarla con un poco de harina o maicena disuelta en agua.
+            Sirve caliente, preferiblemente acompañado de puré de patatas o arroz.
+        </proceso>
+    </facil>
+
+    <medio>
+        <nombre>tacos de carne asada</nombre>
+        <proceso>
+            Marinada: Mezcla jugo de lima, ajo picado, cilantro fresco, comino, pimienta negra y sal en un tazón. Marina la carne de tu elección (tradicionalmente se usa carne de res, como falda o churrasco) en esta mezcla durante al menos 30 minutos, preferiblemente durante varias horas o toda la noche en el refrigerador.
+            Asado: Calienta una parrilla o sartén a fuego medio-alto. Retira la carne de la marinada y sécala ligeramente con papel de cocina. Cocina la carne hasta que esté cocida a tu gusto, generalmente de 5 a 7 minutos por lado para un término medio. Deja reposar la carne unos minutos antes de cortarla en tiras finas.
+            Montaje: Calienta tortillas de maíz o harina en una sartén o directamente sobre la llama de la estufa hasta que estén calientes y ligeramente doradas. Coloca tiras de carne asada en cada tortilla.
+            Salsa y guarniciones: Sirve los tacos con cebolla y cilantro picados, rodajas de lima, salsa de tomate picante o salsa verde, y cualquier otra guarnición de tu elección, como aguacate, queso rallado o crema agria.
+        </proceso>
+    </medio>
+
+    <dificil>
+        <nombre>sushi</nombre>
+        <proceso>
+            
+        </proceso>
+    </dificil>
+
+    <facil>
+        <nombre>espaguetis en salsa marinara</nombre>
+        <proceso>
+            Prepara el arroz: Lava el arroz sushi en agua fría hasta que el agua salga clara. Cocina el arroz en una olla con agua según las instrucciones del paquete. Cuando esté listo, mézclalo con una mezcla de vinagre de arroz, azúcar y sal. Deja que el arroz se enfríe.
+
+            Prepara los ingredientes: Corta en tiras finas pescado crudo fresco (como salmón o atún), aguacate, pepino y cualquier otro relleno que desees.
+            
+            Montaje: Coloca una hoja de alga nori sobre una esterilla de bambú. Humedece tus manos con agua y extiende una capa delgada de arroz sobre el alga, dejando un borde de aproximadamente 1 cm sin cubrir.
+            
+            Añade los ingredientes: Coloca los ingredientes en una línea cerca del borde más cercano a ti. Puedes añadir mayonesa, cebollín o cualquier otra salsa que desees.
+            
+            Enrolla: Levanta el borde de la esterilla más cercano a ti con cuidado y enrolla hacia adelante, apretando suavemente para que el sushi quede firme.
+            
+            Corta: Usa un cuchillo afilado y húmedo para cortar el rollo de sushi en rodajas de aproximadamente 2-3 cm de grosor.
+            
+            Sirve: Sirve el sushi con salsa de soja, wasabi y jengibre encurtido al lado.
+            
+            ¡Disfruta de tu sushi casero! Es importante practicar la técnica para obtener rollos de sushi bien formados, pero con un poco de práctica, puedes hacerlo fácilmente en casa.
+        </proceso>
+    </facil>
+
+    <medio>
+        <nombre>risotto de champiñones</nombre>
+        <proceso>
+            Prepara los ingredientes: Lava y corta los champiñones en rodajas finas. Pica cebolla y ajo.
+
+            Saltea los ingredientes aromáticos: En una olla grande, derrite mantequilla o calienta aceite de oliva. Saltea la cebolla y el ajo hasta que estén transparentes.
+            
+            Cocina los champiñones: Agrega los champiñones y cocínalos hasta que estén dorados y liberen su líquido. Reserva algunos champiñones para decorar.
+            
+            Añade el arroz: Agrega el arroz arborio a la olla y revuelve para que se impregne de la mantequilla o el aceite.
+            
+            Agrega el líquido: Vierte poco a poco caldo de verduras o caldo de pollo caliente en la olla, revolviendo constantemente. Añade más caldo a medida que se absorba, cocinando el arroz a fuego medio-bajo.
+            
+            Cocina hasta que esté cremoso: Continúa cocinando y revolviendo el arroz durante aproximadamente 18-20 minutos, hasta que esté tierno y cremoso.
+            
+            Añade el queso: Retira la olla del fuego y agrega queso parmesano rallado, revolviendo hasta que se derrita y se integre completamente.
+            
+            Termina y sirve: Sazona con sal y pimienta al gusto. Decora con los champiñones reservados y un poco de perejil fresco picado. Sirve caliente y disfruta de tu delicioso risotto de champiñones.
+        </proceso>
+    </medio>
+    
+    <dificil>
+        <nombre>souffle de queso</nombre>
+        <proceso>
+            Preparación del molde: Unta mantequilla en el interior de moldes individuales para soufflé y espolvorea con queso rallado. Precalienta el horno a una temperatura alta.
+
+            Preparación de la salsa bechamel: En una cacerola, derrite mantequilla y añade harina, revolviendo hasta obtener una pasta. Agrega leche caliente poco a poco, sin dejar de revolver, hasta obtener una salsa suave y espesa. Sazona con sal, pimienta y nuez moscada al gusto. Retira del fuego y deja enfriar un poco.
+            
+            Incorporación de ingredientes: Separa las claras de huevo de las yemas. Mezcla las yemas con la salsa bechamel y añade queso rallado (generalmente gruyère o parmesano) y cualquier otro ingrediente adicional que desees, como jamón picado o hierbas frescas.
+            
+            Batido de claras: Bate las claras de huevo a punto de nieve hasta que estén firmes y brillantes.
+            
+            Mezcla y horneado: Incorpora suavemente las claras batidas a la mezcla de queso y salsa bechamel, con movimientos envolventes para conservar la esponjosidad. Vierte la mezcla en los moldes preparados.
+            
+            Horneado: Coloca los moldes en una bandeja para hornear y mételos en el horno precalentado. Hornea hasta que los soufflés estén inflados y dorados por encima, lo que suele tomar unos 12-15 minutos.
+            
+            Servir inmediatamente: Retira los soufflés del horno y sírvelos inmediatamente, ya que tienden a desinflarse rápidamente. ¡Disfruta de tu soufflé de queso caliente y esponjoso!  
+        </proceso>
+    </dificil>
+</receta>
